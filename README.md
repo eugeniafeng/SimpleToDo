@@ -34,6 +34,8 @@ GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+At first, we had some trouble with the button snapping to the upper left, but a TA helped us fix this by enabling Autoconnection to Parent.
+
 ## License
 
     Copyright 2021 Eugenia Feng
